@@ -1,0 +1,73 @@
+/* Reset CSS */
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+.topics{
+    text-align: center;
+}
+.music{
+    color:cornflowerblue;
+}
+body {
+    background-image: url('C:\Users\brewu\Downloads\high-angle-globe-with-stethoscope-peace-day.jpg');
+    font-family: Arial, sans-serif;
+    background-color: #f0f0f0;
+}
+.text{
+    display:flex;
+    align-items:flex-end;
+
+}
+
+.container {
+    max-width: 1200px;
+    margin: 0 auto;
+    padding: 20px;
+}
+
+.header {
+    background-color: #333;
+    color: #fff;
+    padding: 10px;
+    text-align: center;
+}
+
+.navbar {
+    background-color: #444;
+    color: #fff;
+    padding: 10px;
+}
+
+.navbar ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+}
+
+.navbar ul li {
+    display: inline;
+    margin-right: 10px;
+}
+
+.navbar ul li a {
+    color: #fff;
+    text-decoration: none;
+}
+
+.content {
+    background-color: #fff;
+    padding: 20px;
+    margin-top: 20px;
+}
+
+.footer {
+    background-color: #333;
+    color: #fff;
+    padding: 10px;
+    text-align: center;
+}
+.DYK{
+    background-color: azure;
+}
